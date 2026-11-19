@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 .env
+x11.png
+zoom.png
+selftest_local.png
